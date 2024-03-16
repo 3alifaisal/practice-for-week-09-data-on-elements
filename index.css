@@ -5,5 +5,11 @@ li {
     margin-bottom: 5px;
     border-radius: 25px;
 }
+li[data-type="dairy"]{
+    background-color: beige;
+}
+li[data-type="meats"]{
+background-color: red;
+}
 
 /* Your code here */
